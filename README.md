@@ -18,8 +18,6 @@ PNG. Projects can be saved and reopened later.
   neighbouring steps instead of a plateau.
 - **Blank steps are skipped.** Leave a step empty for a pathway and its
   neighbours are simply joined with a dashed line.
-- **Branches share colour.** When pathways share a step (same step number and
-  same value), it is drawn once, in the colour of the pathway entered first.
 - **Up to 10 pathways**, with colour-blind-friendly default colours (black, blue,
   red, yellow, then six more). Click a colour box to pick any other colour.
 - **Adjustable figure size** in inches or centimetres (default 8 x 6 in), with a
@@ -96,6 +94,3 @@ Projects are readable JSON, for example:
 Files saved by earlier versions (without colours or a figure size) still load;
 the defaults are used for the missing parts.
 
-## License
-
-Add a `LICENSE` file to say how others may use this code (for example MIT).
