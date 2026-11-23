@@ -1,11 +1,6 @@
 {
   "title": "",
-  "ylabel": "ΔG (eV)",
-  "file_name": "co_reduction_example",
-  "fig_width": "7",
-  "fig_height": "4.5",
-  "fig_unit": "in",
-  "version": 1,
+  "ylabel": "\u0394G (eV)",
   "pathways": [
     {
       "name": "U = 0 V",
@@ -191,5 +186,10 @@
         }
       ]
     }
-  ]
+  ],
+  "file_name": "example",
+  "fig_width": "7",
+  "fig_height": "4.5",
+  "fig_unit": "in",
+  "version": 1
 }
