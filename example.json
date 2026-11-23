@@ -1,0 +1,195 @@
+{
+  "title": "",
+  "ylabel": "ΔG (eV)",
+  "file_name": "co_reduction_example",
+  "fig_width": "7",
+  "fig_height": "4.5",
+  "fig_unit": "in",
+  "version": 1,
+  "pathways": [
+    {
+      "name": "U = 0 V",
+      "color": "#000000",
+      "steps": [
+        {
+          "name": "CO(g)",
+          "val": "0",
+          "act": false
+        },
+        {
+          "name": "*CO",
+          "val": "-0.95",
+          "act": false
+        },
+        {
+          "name": "*CHO",
+          "val": "-0.74",
+          "act": false
+        },
+        {
+          "name": "*CHOH",
+          "val": "-0.72",
+          "act": false
+        },
+        {
+          "name": "*CH$_2$OH",
+          "val": "-0.94",
+          "act": false
+        },
+        {
+          "name": "*CH$_2$",
+          "val": "-1.18",
+          "act": false
+        },
+        {
+          "name": "*CH$_3$",
+          "val": "-1.69",
+          "act": false
+        },
+        {
+          "name": "CH$_4$(g)",
+          "val": "-1.55",
+          "act": false
+        }
+      ]
+    },
+    {
+      "name": "U = 0 V",
+      "color": "#2323F5",
+      "steps": [
+        {
+          "name": "",
+          "val": "0",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-0.95",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-0.74",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-0.72",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-0.94",
+          "act": false
+        },
+        {
+          "name": "CH$_3$OH (aq)",
+          "val": "-0.52",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "",
+          "act": false
+        }
+      ]
+    },
+    {
+      "name": "U = -0.21 V",
+      "color": "#EB473D",
+      "steps": [
+        {
+          "name": "",
+          "val": "0",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-0.95",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-0.95",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-1.14",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-1.57",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-2.02",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-2.74",
+          "act": false
+        },
+        {
+          "name": "CH$_4$(g)",
+          "val": "-2.82",
+          "act": false
+        }
+      ]
+    },
+    {
+      "name": "U = -0.42 V",
+      "color": "#3D7D2A",
+      "steps": [
+        {
+          "name": "",
+          "val": "0",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-0.95",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-1.16",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-1.56",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "-2.20",
+          "act": false
+        },
+        {
+          "name": "CH$_3$OH (aq)",
+          "val": "-2.20",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "",
+          "act": false
+        },
+        {
+          "name": "",
+          "val": "",
+          "act": false
+        }
+      ]
+    }
+  ]
+}
